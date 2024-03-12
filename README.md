@@ -1,8 +1,9 @@
 <h1 align="center" style="color:purple ;">Hi, I'm Rahul</h1>
 <h3 align="center">A coder studying Computer Science at the University of Michigan.</h3>
+<hr>
 - 🔭 I’m currently working on **Project ANT**<br>
 - 🧠 I have already made a Neural Network using only numpy to recognize the **MNIST Handwritten Digit** dataset<br>
-- 👔 I have also created a GAN that can generate images of "fashion" using the **MNIST Fashion** dataset
+- 👔 I have also created a GAN that can generate images of "fashion" using the **MNIST Fashion** dataset<br>
 - 🏫 You can also find my projects that I have completed in the EECS department
 
 <h3 align="left">Connect with me:</h3>
