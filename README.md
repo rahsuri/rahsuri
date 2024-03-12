@@ -1,4 +1,4 @@
-<h1>style="color: #9733FF;">Hi, I'm Rahul</h1>
+<h1 align="center" style="color: #9733FF;">Hi, I'm Rahul</h1>
 <h3 align="center">A coder studying Computer Science at the University of Michigan.</h3>
 - 🔭 I’m currently working on **Project ANT**
 
