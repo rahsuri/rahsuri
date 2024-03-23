@@ -6,7 +6,7 @@
 - 👔 I have also created a GAN that can generate images of "fashion" using the **MNIST Fashion** dataset<br>
 - 🏫 You can also find my projects that I have completed in the EECS department
 
-<h3 align="left">Connect with me:</h3>
+<pre><h3 align="left">Connect with me:</h3></pre>
 <p align="left">
 <a href="https://linkedin.com/in/rahsuri22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahsuri" height="30" width="40" /></a>
 </p>
