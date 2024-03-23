@@ -1,5 +1,5 @@
 <h1 align="center" style="color:purple ;">Hi, I'm Rahul</h1>
-<h2><pre align="center">A coding connoisseur studying Computer Science at the University of Michigan.</pre></h2>
+<h3><pre align="center">A coding connoisseur studying Computer Science at the University of Michigan.</pre></h3>
 <hr>
 - 🔭 I’m currently working on **Project ANT**<br>
 - 🧠 I have already made a Neural Network using only numpy to recognize the **MNIST Handwritten Digit** dataset<br>
