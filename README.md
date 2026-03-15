@@ -1,15 +1,39 @@
-<h1 align="center" style="color:purple ;">Hi, I'm Rahul</h1>
-<h3><pre align="center">A coding connoisseur studying Computer Science at the University of Michigan.</pre></h3>
-<hr>
-- 🔭 I’m currently working on FORA, a helpful Conversational AI agent<br>
-- 🧠 I have already made a Neural Network using only numpy to recognize the **MNIST Handwritten Digit** dataset<br>
-- 👔 I have also created a GAN that can generate images of "fashion" using the **MNIST Fashion** dataset<br>
-- 🏫 You can also find my projects that I have completed in the EECS department using C/C++
+# Hey, I'm Rahul 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rahsuri22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahsuri" height="30" width="40" /></a>
-</p>
+### Lead AI Engineer at [d3VIEW](https://www.d3view.com) · University of Michigan CS '25
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+I build production multi-agent AI systems for engineering simulation — turning LLMs into domain-expert analysts that help automotive engineers develop safer vehicles.
+
+---
+
+### What I'm working on
+
+- 🤖 Architecting a **13-agent AI ecosystem** with **415+ LLM-callable tools** for crash simulation analysis
+- 🧠 Building **knowledge graph pipelines** that convert finite element models into queryable RDF ontologies
+- 🔧 Designing **guardrailed tool orchestration** systems that channel LLM reasoning through engineering-correct execution paths
+- 🔗 Developing **multi-agent coordination** with delegation, shared memory, and resumable conversations
+- ⚡ Using **Claude Code** daily to accelerate agent framework development
+
+### Domain
+
+LS-DYNA crash simulation · FMVSS 208 / ECE R94 safety standards · DOE & Pareto optimization · Surrogate ML modeling
+
+### Tech
+
+**Languages:** Python · PHP · JavaScript/TypeScript · C/C++ · CUDA · Go · SQL · SPARQL
+
+**AI/ML:** LLM Agent Frameworks · Multi-Agent Orchestration · RAG · Tool Calling · Knowledge Graphs (RDF/OWL) · Vector Databases · Prompt Engineering
+
+**Infra:** AWS · Docker · Nginx · MySQL · HPC · Linux · FastAPI · React
+
+---
+
+### Earlier work (in these repos)
+
+The repositories here are from my time at Michigan — neural networks from scratch, GANs, systems programming in C++, and a [llama.cpp contribution](https://github.com/rahsuri/llama.cpp). My production agent work lives in a private codebase, but I'm always happy to demo.
+
+---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rahsuri22-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rahsuri22)
